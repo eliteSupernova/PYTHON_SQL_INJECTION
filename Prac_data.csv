@@ -1,0 +1,17 @@
+PROCESS ID,Emp Id,DATE,WORK TYPE,PROCESS,Sub Process,WORKING HRS,FLEX FIELD1,FLEX FIELD2,FLEX FIELD3,Critical Error,Emp name,FLEX FIELD5,holiday
+6,12332,01-03-2023,Non Prod,DNA,MS,,5,,,2.50%,AB,morning,sat
+6,12332,04-03-2023,Non Prod,TP,,3:30:00 AM,a,4.4,13.37,4.90%,AB,night,
+6,12332,03-03-2023,Non Prod,DI,SBU,2:30:00 AM,1,2,11.15,4.10%,CD,evening,sat
+6,12332,04-03-2023,Non Prod,TP,,3:30:00 AM,a,4.4,13.37,4.90%,AB,night,
+6,,05-03-2023,Non Prod,,NPS,4:30:00 AM,,7.7,15.59,5.70%,BC,,
+6,12332,06-03-2023,Non Prod,DI,SBU,5:30:00 AM,4,8.3,17.81,6.50%,,,sat-sun
+6,12332,,Non Prod,TP,MS,6:30:00 AM,9,11.15,,7.30%,,evening,sat
+7,12332,,Non Prod,TP,,10:05:00 PM,7.5,,,12.90%,,,mon
+6,12332,08-03-2023,Non Prod,,NPS,7:30:00 AM,14,13.37,,8.10%,BC,night,sat
+6,12332,02-03-2023,Non Prod,DTDB,NPS,,3,,,3.30%,BC,,sat-sun
+6,12332,01-03-2023,Non Prod,TP,,6:25:00 AM,,17.81,9,9.70%,AB,evening,sat-sun
+6,,01-03-2023,Non Prod,,,4:20:00 AM,,20.03,14,10.50%,BC,night,
+6,,01-03-2023,Non Prod,BS,MS,2:15:00 AM,4.6,22.25,19,11.30%,CD,evening,sat
+6,12332,,Non Prod,TP,,10:05:00 PM,7.5,,,12.90%,,,mon
+6,12332,05-03-2023,Non Prod,,,,,,k,,CD,morning,sat
+6,12332,08-03-2023,Non Prod,TP,NPS,7:30:29 AM,14,13.37,,8.10%,BC,night,sat
